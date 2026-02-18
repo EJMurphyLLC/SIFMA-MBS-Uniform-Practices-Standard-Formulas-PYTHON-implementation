@@ -1,3 +1,5 @@
+# Loan characteristics are hard-coded to match Table A of the pdf documentation.
+
 import pandas as pd
 import numpy as np
 
